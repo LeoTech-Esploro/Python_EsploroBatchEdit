@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user>
+        <is_researcher>true</is_researcher>
+        <user_identifier>
+            <user_identifier segment_type="External">
+                <id_type>OTHER_ID_1</id_type>
+                <value>ajiang@laverne.edu</value>
+                <status>ACTIVE</status>
+            </user_identifier>
+        </user_identifier>
+        <researcher>
+            <photo_url>yahoo.com</photo_url>
+        </researcher>
+    </user>
+</users>
+<users>
+    <user>
+        <is_researcher>false</is_researcher>
+        <user_identifier>
+            <user_identifier segment_type="External">
+                <id_type>OTHER_ID_1</id_type>
+                <value>scostello@laverne.edu</value>
+                <status>ACTIVE</status>
+            </user_identifier>
+        </user_identifier>
+        <researcher>
+            <photo_url>gmail.com</photo_url>
+        </researcher>
+    </user>
+</users>
